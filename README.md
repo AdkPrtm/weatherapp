@@ -1,4 +1,4 @@
-# test_praktek
+# Weather App
 
 A new Flutter project.
 
